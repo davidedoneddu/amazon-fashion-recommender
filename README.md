@@ -163,13 +163,8 @@ Some of the main challenges encountered during the project include:
 
 Possible improvements include:
 
-- implementation of **content-based recommendation models**
 - hybrid recommender systems
-- dimensionality reduction techniques
-- evaluation metrics such as:
-  - precision@k
-  - recall@k
-  - MAP
+- evaluation metrics
 - deep learning recommendation approaches
 
 ---
